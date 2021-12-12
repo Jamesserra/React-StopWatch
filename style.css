@@ -1,0 +1,12 @@
+html {
+  background:cornflowerblue;
+}
+#root {
+  padding: 20rem;
+  background:cornflowerblue;
+} 
+
+.time {
+  font-size: 8rem;
+  color: white;
+}
